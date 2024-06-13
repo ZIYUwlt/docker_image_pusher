@@ -1,1 +1,1 @@
-searxng
+cook:latest
