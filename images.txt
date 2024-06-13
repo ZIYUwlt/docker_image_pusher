@@ -1,1 +1,1 @@
-cook:latest
+pull yunyoujun/cook:latest
