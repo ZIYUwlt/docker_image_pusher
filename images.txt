@@ -1,3 +1,2 @@
-photoprism
-lobechatai
-searxng
+neosmemo/memos:latest
+
