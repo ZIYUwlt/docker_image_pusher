@@ -1,3 +1,3 @@
-PhotoPrism
-LobeChatAI
+photoprism
+lobechatai
 searxng
