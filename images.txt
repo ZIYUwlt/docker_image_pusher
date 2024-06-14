@@ -1,1 +1,1 @@
-hectorqin/reader
+photoprism/photoprism:latest
