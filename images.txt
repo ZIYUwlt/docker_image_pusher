@@ -1,1 +1,1 @@
-searxng/searxng
+hectorqin/reader
