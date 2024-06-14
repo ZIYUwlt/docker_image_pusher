@@ -1,1 +1,1 @@
-mariadb
+frooodle/s-pdf:latest
