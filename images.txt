@@ -1,1 +1,3 @@
-synesthesiam/opentts
+halcyonazure/lsky-pro-docker
+hectorqin-reader1
+Kavita
