@@ -1,1 +1,1 @@
-jellyfin/jellyfin-server
+library/alpine
