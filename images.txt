@@ -1,1 +1,1 @@
-fangzhengjin/qiandao
+asdaragon/qiandao:latest
