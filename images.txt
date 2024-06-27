@@ -1,1 +1,1 @@
-jaywcjlove/linux-command:latest
+wcjiang/linux-command
