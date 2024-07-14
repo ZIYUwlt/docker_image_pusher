@@ -1,1 +1,1 @@
-foamzou/melody
+calibre-web:latest
