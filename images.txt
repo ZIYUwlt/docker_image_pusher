@@ -1,1 +1,1 @@
-calibre-web:latest
+calibre-web
