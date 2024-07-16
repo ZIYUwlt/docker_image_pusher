@@ -1,1 +1,1 @@
-linuxserver/mods:universal-calibre
+soulteary/flare
