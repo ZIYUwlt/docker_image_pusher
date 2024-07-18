@@ -1,1 +1,1 @@
-jasminexzzz/blossom:latest
+mysql:8.0.31
